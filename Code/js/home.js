@@ -152,7 +152,7 @@ function card5Data() {
 
 function card6Data() {
     document.querySelector("#title6").innerHTML =
-        "<i class='bi bi-code-translate'></i> AZ - Alooze Translation";
+        "<i class='bi bi-code-translate'></i> CST - CSimplify Translation";
     document.querySelector("#content6").textContent =
         "This tool will translate from the default language of English to any of the languages you specify.";
 }
@@ -166,7 +166,7 @@ function card7Data() {
 
 function card8Data() {
     document.querySelector("#title8").innerHTML =
-        "<i class='bi bi-journal-bookmark-fill'></i> AD - AlooZe Dictionary";
+        "<i class='bi bi-journal-bookmark-fill'></i> CSD - CSimplify Dictionary";
     document.querySelector("#content8").textContent =
         "This gathers information about a word and instructs when and where it should be used, as well as how to pronounce it. Expand your vocabulary.";
 }
