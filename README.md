@@ -9,7 +9,10 @@ Social Welfare, Open Innovation
 
 ## Team Details:
 Member 1: Lovish Prabhakar (Team Lead) (UID: DCH-8252)
+
 Member 2: Priyanka Joshi (UID: DCH-8253)
+
 Member 3: Ashnoor Kaur (UID: DCH-8251)
 
+## Website:
 URL: https://lovishprabhakar.github.io/Alooze/Code/index.html
