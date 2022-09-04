@@ -12,7 +12,7 @@ CSimplify collects data from around the world and organises it into networks of 
 Social Welfare, Open Innovation
 
 ## Project URL:
-Live URL: https://lovishprabhakar.github.io/Alooze/Code/index.html
+Live URL: https://lovishprabhakar.github.io/CSimplify/Code/index.html
 ## Team Details: 
 ### Team Name: Code Blooded, Team Number: 11
 1. Lovish Prabhakar - UID: DCH-8252
