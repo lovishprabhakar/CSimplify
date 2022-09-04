@@ -12,7 +12,7 @@
 Social Welfare, Open Innovation
 
 ## Project URL:
-Live URL: https://lovishprabhakar.github.io/Alooze/Code/index.html
+Live URL:[ https://lovishprabhakar.github.io/Alooze/Code/index.html](https://lovishprabhakar.github.io/CSimplify/Code/index.html)
 
 ## Team Details:
 ### Team Name: Code Blooded, Team Number: 11
